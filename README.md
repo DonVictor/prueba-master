@@ -1,3 +1,4 @@
+Version: Victor Palma
 Prueba Ingreso Front-End Designer
 
 Construya la pieza gráfica que se encuentra en el repositorio. Para ello haga fork y luego haga un commit inicial para poder tomar el tiempo que le lleva realizar la tarea. No olvidar la versión tablet.
